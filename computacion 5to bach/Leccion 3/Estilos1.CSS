@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    color: #4B0082;
+}
+
+div {
+    padding: 10px;
+    border: 15px solid #4B0082;
+    margin: 20px;
+    background-color: #4B0082;
+    width: 300px;
+    outline: 10px solid #4B0082;
+    outline-offset: 10px;
+    box-sizing: content-box;
+    max-width: 300px;
+}
+
+p.interno {
+    margin: inherit;
+}

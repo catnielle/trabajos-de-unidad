@@ -1,0 +1,12 @@
+Body{
+    background-color: whitesmoke;
+    color: crimson;
+    background-image: url("/img/Ariana%20grande.png");
+    background-repeat:no-reapeat;
+    background-position: right top;
+    background-attachment: scroll;
+}        
+H1{ 
+    text-align: center;
+    background-color: dodgerblue
+}

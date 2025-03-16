@@ -1,0 +1,11 @@
+#titulo{
+    color: aqua;
+    text-align: center;
+    }
+.centrar{
+    text-align: center;
+    }  
+*{ background-color: black;
+    color: seagreen;
+    }
+
